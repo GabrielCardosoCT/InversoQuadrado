@@ -1,0 +1,14 @@
+C:\Users\gabri\My project\inversoquadrado\bin\Debug\net8.0\inversoquadrado.exe
+C:\Users\gabri\My project\inversoquadrado\bin\Debug\net8.0\inversoquadrado.deps.json
+C:\Users\gabri\My project\inversoquadrado\bin\Debug\net8.0\inversoquadrado.runtimeconfig.json
+C:\Users\gabri\My project\inversoquadrado\bin\Debug\net8.0\inversoquadrado.dll
+C:\Users\gabri\My project\inversoquadrado\bin\Debug\net8.0\inversoquadrado.pdb
+C:\Users\gabri\My project\inversoquadrado\obj\Debug\net8.0\inversoquadrado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\My project\inversoquadrado\obj\Debug\net8.0\inversoquadrado.AssemblyInfoInputs.cache
+C:\Users\gabri\My project\inversoquadrado\obj\Debug\net8.0\inversoquadrado.AssemblyInfo.cs
+C:\Users\gabri\My project\inversoquadrado\obj\Debug\net8.0\inversoquadrado.csproj.CoreCompileInputs.cache
+C:\Users\gabri\My project\inversoquadrado\obj\Debug\net8.0\inversoquadrado.dll
+C:\Users\gabri\My project\inversoquadrado\obj\Debug\net8.0\refint\inversoquadrado.dll
+C:\Users\gabri\My project\inversoquadrado\obj\Debug\net8.0\inversoquadrado.pdb
+C:\Users\gabri\My project\inversoquadrado\obj\Debug\net8.0\inversoquadrado.genruntimeconfig.cache
+C:\Users\gabri\My project\inversoquadrado\obj\Debug\net8.0\ref\inversoquadrado.dll
